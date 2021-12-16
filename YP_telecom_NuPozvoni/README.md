@@ -10,9 +10,7 @@
 
 ## Используемые библтотеки:
 
-pandas
-
-matplotlib
-
-scipy
+- pandas
+- matplotlib
+- scipy
 
