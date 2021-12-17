@@ -6,4 +6,4 @@
 | [Телеком "Нупозвони"](YP_telecom_NuPozvoni) | поиск клиента с неоптимальными тарифами | pandas , matplotlib , scipy |
 | [фитнес-центр «Культурист-датасаентист»](YP_fitnes) | анализ и подготовка плана действий по удержанию клиентови | pandas , seaborn , sklearn , scipy |
 | [воронка и А-А-В тест в продажах еды](YP_A_A_B_test_buy_food) | анализ поведения пользователей мобильного приложения, рассмотрение результатов А-А-В теста | pandas , matplotlib , scipy |
-
+| [платформа "Стримчик"](YP_Strimchik_best_games) | определение успешности игр | pandas , matplotlib , seaborn , scipy |
